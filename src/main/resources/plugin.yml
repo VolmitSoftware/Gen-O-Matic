@@ -1,0 +1,8 @@
+name: ${name}
+version: ${version}
+main: ${main}
+api-version: ${apiversion}
+load: STARTUP
+authors: [ NextdoorPsycho ]
+description: Something you should not be looking at
+website: Volmit.com
